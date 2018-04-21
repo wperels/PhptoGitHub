@@ -1,0 +1,4 @@
+name = PhptoGitHub
+description = Testing PHP Project in NetBeans to GitHub repository
+core = 7.x
+
